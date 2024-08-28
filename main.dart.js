@@ -29692,7 +29692,7 @@ arH:function arH(a){this.a=a},
 aAR(){var s=0,r=A.R(t.H),q,p,o,n,m,l,k
 var $async$aAR=A.N(function(a,b){if(a===1)return A.O(b,r)
 while(true)switch(s){case 0:s=2
-return A.U($.aFF().By(".env"),$async$aAR)
+return A.U($.aFF().By("dotenv"),$async$aAR)
 case 2:q=$.aFF()
 if(!q.a)A.E(new A.P4())
 q=q.b.i(0,"BASE_URL")

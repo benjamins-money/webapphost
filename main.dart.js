@@ -50821,7 +50821,7 @@ this.a.d.v(0,new A.Gu(a))},
 $S:105}
 A.ap3.prototype={
 $0(){var s=null,r=this.a,q=new A.ap4(r),p=r.d,o=t.p
-r=A.b([q.$5$button$description$onDescExpand$subtitle$title(new A.li(p.ry,new A.ap5(r),s),"Automated Customer Account Transfer Service (ACAT) is an electronic system that allows you (investor) to move your assets from existing brokerage firm to Benjamins Money. Benjamins Money uses RBC Clearing & Custody to custody assets for our customers.",new A.ap6(r),"Move your assets from existing brokerage firm to our platform","Account Transfer (ACAT)"),B.ps,q.$3$button$subtitle$title(new A.li(p.to,new A.ap7(r),s),"Write a check to fund your accounts","Check"),B.ps,q.$3$button$subtitle$title(new A.li(p.x1,new A.ap8(r),s),"Electronically transfer funds from your checking/saving account to fund your accounts","ACH/ETF"),B.Cw],o)
+r=A.b([q.$5$button$description$onDescExpand$subtitle$title(new A.li(p.ry,new A.ap5(r),s),"Automated Customer Account Transfer Service (ACAT) is an electronic system that allows you (investor) to move your assets from existing brokerage firm to Benjamins Money. Benjamins Money uses RBC Clearing & Custody to custody assets for our customers.",new A.ap6(r),"Move your assets from existing brokerage firm to our platform","Account Transfer (ACAT)"),B.ps,q.$3$button$subtitle$title(new A.li(p.to,new A.ap7(r),s),"Write a check to fund your accounts and use the mobile app to deposit checks","Check"),B.ps,q.$3$button$subtitle$title(new A.li(p.x1,new A.ap8(r),s),"Electronically transfer funds from your checking/saving account to fund your accounts","ACH/ETF"),B.Cw],o)
 if(p.cV===!1)r.push(A.cv(A.b([B.Le,B.Vf,A.di(A.aJ("Select at least one",s,s,s,B.a8.aO(B.dZ),s,s),1)],o),B.H,B.q,B.R))
 return r},
 $S:44}

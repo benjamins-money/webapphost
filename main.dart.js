@@ -53973,7 +53973,7 @@ s=d?new A.atT(s,a,b,i,new A.au6(g,d)).$0():new A.au1(s,e,f,c,h,j,k).$0()
 return A.a0(s,!0,t.l7)},
 $S:765}
 A.au6.prototype={
-$0(){var s=this.b,r=s?"Manual Entry":"Auto-Suggest"
+$0(){var s=this.b,r=s?"Enter Manually":"Auto-Suggest"
 return A.aMF(A.uZ(B.bn,!0,!1,new A.au7(this.a,s),B.jz,null,r,B.A.aqH(B.av),B.FH))},
 $S:33}
 A.au7.prototype={
